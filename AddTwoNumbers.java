@@ -42,7 +42,7 @@ class Test {
         System.out.println("Simple interest: " + simpleInterest);
 
         System.out.println("Result of (5 > 3) && (8 > 100): " + result);
-                System.out.println("Result of (500 > 3) && (888 > 100): " + result2);
+        System.out.println("Result of (500 > 3) && (888 > 100): " + result2);
 
     }
 }
