@@ -4,9 +4,9 @@ public class StudentMainClass {
         Student student = new Student();
 
         // Set the attributes using setters
-        student.setName("Alice");
+        student.setName("Yajju Chansi");
         student.setId(101);
-        student.setAge(20);
+        student.setAge(22);
 
         // Get and print the attributes using getters
         System.out.println("Student Name: " + student.getName());
