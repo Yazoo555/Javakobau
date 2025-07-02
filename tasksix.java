@@ -32,8 +32,8 @@ class Television implements PowerOnOff, DeviceInfo {
     }
 }
 
-// Main class named tasksix
-public class tasksix {
+// Main class named TaskSix
+public class TaskSix {
     public static void main(String[] args) {
         Television tv = new Television();
 
