@@ -2,7 +2,7 @@ import java.util.Stack;
 
 public class ReverseWords {
     public static void main(String[] args) {
-        String sentence = "Hello World";
+        String sentence = "Ritesh comes to college every day, goes to 17 section and sees his friend goes to lounge everyday plays TT does punch-in and goes home";
         String[] words = sentence.split(" ");
 
         Stack<String> stack = new Stack<>();
@@ -17,7 +17,6 @@ public class ReverseWords {
                 reversed.append(" ");
             }
         }
-
         System.out.println(reversed.toString());
     }
 }
