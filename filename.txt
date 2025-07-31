@@ -1,0 +1,3 @@
+PS E:\jaca\WorkshopNINE>  & 'C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Yajju Shrestha\AppData\Roaming\Code\User\workspaceStorage\c320cf7201fe0fff702f6e29bc14c3af\redhat.java\jdt_ws\WorkshopNINE_f4cd97d9\bin' 'WordCount' 
+Error reading file: input.txt (The system cannot find the file specified)
+PS E:\jaca\WorkshopNINE> 
